@@ -2,11 +2,6 @@
 Homework2
 Name: Jesse Brennecka
 github link: https://github.com/jbrennecka/python/blob/main/homework2.py
-
-PERSONAL COMMENT: I had to modify the doctest2.py file because the file itself had 
-two different instances of hours to minutes conversion, and every time I would test 
-the code against it, it would always return it wrong, either it's not 150.0 or it
-isn't 219.0
 '''
 
 def inches_to_cm(inch):
@@ -22,10 +17,6 @@ def lbs_to_kg(lbs):
     return z
 
 def hours_to_minutes(hrs):
-    mins = hrs * 60
-    return mins
-
-def hours_to_minutes2(hrs):
     mins = hrs * 60
     return mins
 
