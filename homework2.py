@@ -1,7 +1,7 @@
 '''
 Homework2
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework2.py
 
 PERSONAL COMMENT: I had to modify the doctest2.py file because the file itself had 
 two different instances of hours to minutes conversion, and every time I would test 
