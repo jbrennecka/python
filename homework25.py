@@ -4,6 +4,7 @@ Name: Jesse Brennecka
 github link: https://github.com/jbrennecka/python/blob/main/homework25.py
 '''
 
+#using given input from other file, take var and organize into correct grammar and sentence structure
 def birthday(month,day,year):
     start = "Your birthday is"
     print('\'' + str(start), month, str(day) + ',', str(year) + '.\'')
