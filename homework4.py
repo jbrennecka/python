@@ -1,7 +1,7 @@
 '''
 Homework4
 Name: Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework4.py
 '''
 
 def grade_calculator(score):
