@@ -1,7 +1,7 @@
 '''
 Homework8
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework8.py
 '''
 
 def sum_numbers(lst):
