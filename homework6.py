@@ -1,7 +1,7 @@
 '''
 Homework6
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework6.py
 '''
 
 def div_by_seven(num):
