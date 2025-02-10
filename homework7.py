@@ -1,7 +1,7 @@
 '''
 Homework7
 Name: Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework7.py
 '''
 
 
@@ -18,7 +18,7 @@ def fizzbuzz(num):
     return 
 
 def scholarship_eligibility(gpa,credits):
-    #I figured since the doctest was going to test whether if the code output
+    # I figured since the doctest was going to test whether if the code output
     # was true or false rather than printing "true" or "false", I didn't use
     # the print() function
     if gpa >= 3.5 and credits >= 60:
