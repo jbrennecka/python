@@ -1,7 +1,7 @@
 '''
 Homework3
-Name:
-github link:
+Name: Jesse Brennecka
+github link: https://github.com/jbrennecka/python/blob/main/homework3.py
 '''
 
 def positive_or_negative(num):
