@@ -1,7 +1,7 @@
 '''
 Homework5
 Name: Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework5.py
 '''
 
 def collatz_conjecture(num):
