@@ -1,7 +1,7 @@
 '''
 Homework9
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework9.py
 '''
 
 def bubble_sort(lst):
