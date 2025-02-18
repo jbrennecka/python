@@ -1,7 +1,7 @@
 '''
 Homework11
 Name: Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework11.py
 '''
 
 def count_zeros(lst):
