@@ -1,7 +1,7 @@
 '''
 Homework10
-Name:
-github link:
+Name: Jesse Brennecka
+github link: https://github.com/jbrennecka/python/edit/main/homework10.py
 '''
 
 
