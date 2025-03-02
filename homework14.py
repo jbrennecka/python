@@ -1,7 +1,7 @@
 '''
 Homework14
 Name: Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework14.py
 '''
 
 meter = 0
