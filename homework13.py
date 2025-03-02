@@ -1,7 +1,7 @@
 '''
 Homework13
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework13.py
 '''
 def calculate_interest(principal, rateInt, time):
     simpInt = int((principal * rateInt * time))
