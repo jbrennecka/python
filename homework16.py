@@ -1,7 +1,7 @@
 '''
 Homework16
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework16.py
 '''
 
 def pythagorean_thm(tuple):
