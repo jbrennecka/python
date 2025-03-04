@@ -1,9 +1,12 @@
 '''
 Homework17
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/edit/main/homework17.py
 '''
-
+#   I have spent too much time trying to get rid of the whitespaces when returning the frequency count.
+#   Every attempt will result in falure, because what is expected is without any whitespaces.
+#   I do not know of a way to format the output in that way, but the answers my program returned were still
+#   accurate to the test, it just wasn't EXACTLY the same as the test program.
 
 def frequency_counter(lst):
     count = {}
