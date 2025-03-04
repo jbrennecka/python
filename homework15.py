@@ -1,7 +1,7 @@
 '''
 Homework15
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework15.py
 '''
 
 def factorial(n):
