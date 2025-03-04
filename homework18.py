@@ -1,7 +1,7 @@
 '''
 Homework18
 Name: Jesse Brennecka
-github link:
+github link: https://github.com/jbrennecka/python/blob/main/homework18.py
 '''
 
 def iterate_dictionary(lst):
