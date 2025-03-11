@@ -1,7 +1,7 @@
 '''
 Homework1
 Name: Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework1p2.py
 '''
 
 import random
