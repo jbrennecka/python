@@ -1,7 +1,7 @@
 '''
 Homework20
 Name:   Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework20.py
 '''
 
 def convert_to_ascii(string):
