@@ -1,7 +1,7 @@
 '''
 Homework23
 Name:   Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework23.py
 '''
 
 def group_by_first_letter(words):
