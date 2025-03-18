@@ -1,7 +1,7 @@
 '''
 Homework22
 Name:   Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework22.py
 '''
 def mask_creditcard(string):
     card = ""
