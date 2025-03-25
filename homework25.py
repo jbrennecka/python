@@ -1,7 +1,7 @@
 '''
 Homework24
 Name:   Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework25.py
 '''
 
 def flowers(idx,list_of_flowers):
