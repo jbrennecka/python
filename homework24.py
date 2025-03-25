@@ -1,7 +1,7 @@
 '''
 Homework24
 Name:   Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework24.py
 '''
 
 def is_valid_password(word):
