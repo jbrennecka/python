@@ -1,7 +1,7 @@
 '''
 Homework24
 Name:   Jesse Brennecka
-github link: 
+github link: https://github.com/jbrennecka/python/blob/main/homework26.py
 '''
 
 def dictionary_exceptions(key,dict):
