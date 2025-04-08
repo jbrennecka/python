@@ -1,7 +1,7 @@
 '''
 Homework2
 Name: Jesse Brennecka
-github link:
+github link:    https://github.com/jbrennecka/python/blob/main/homework2.py
 Note: Remember to use comments for each function.
 doc strings should include what each input consists of, 
 what the expected output is and a description of the function.
