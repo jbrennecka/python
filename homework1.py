@@ -1,6 +1,6 @@
 '''
 Homework1
-Name:
+Name:   Jesse Brennecka
 github link:
 Note: Remember to use comments for each function.
 doc strings should include what each input consists of, 
@@ -21,8 +21,11 @@ class Bank_Account:
         return pod
     
     def deposit(self,amount):
-
-        # Code segment will deposit "amount" into account after a check if it is positive (more than zero)
+        '''
+        Code segment will deposit "amount" into account after a check if it is positive (more than zero). It
+        will print a statement showing the amount deposited and the new balance, or will print a statement informing
+        the user that they must input a positive number.
+        '''
 
         deposit_amount = amount
         if deposit_amount > 0:
@@ -34,7 +37,12 @@ class Bank_Account:
     
     def withdraw(self,amount):
 
-        # Code segment will withdraw "amount" from account if both the account has enough funds and that it is positive(more than zero)
+        '''
+        Code segment will withdraw "amount" from account if both the account has enough funds
+        and that it is positive(more than zero). It will print one of three statements, one
+        showing the amount withdrawn and the new balance, another is a statement that says there requested
+        amount was more than the account's balance, and the last is to instruct the user to input a positive number
+        '''
 
         withdraw_amount = amount
         start_amount = self.account
@@ -48,8 +56,8 @@ class Bank_Account:
             print('Please withdraw an amount greater than zero.')
         
 
-    
     def check_balance(self):
+        # simple code segment to print account balance
         print('Balance: ' + str(self.account))
 
 if __name__ == "__main__":
