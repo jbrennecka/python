@@ -1,3 +1,8 @@
+'''
+Name: Jesse Brennecka
+Object Oriented Programming, the methods.
+'''
+
 class Pet:
     instanceAmt = []
     def __init__(self, name, kind, breed):
