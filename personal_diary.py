@@ -1,6 +1,7 @@
 '''
 Name: Jesse Brennecka
 Object Oriented Programming: Processing Files
+github: https://github.com/jbrennecka/python/blob/main/personal_diary.py
 Notes:
     When creating this, I was wondering if I needed to catch if the entries for the dates and time-of-day can be anything,
     although wouldn't it be more efficient to make the computer itself enter the time of day and the date of the entry being placed?
