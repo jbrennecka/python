@@ -1,0 +1,15 @@
+Time of day: 00:00
+Date of entry: 01/01/2025
+Entry:
+	This is a test entry
+
+Time of day: 17:35
+Date of entry: 04/21/2025
+Entry:
+	Today is the first iteration of the diary program needed for the assignment.
+
+Time of day: 18:00
+Date of entry: 04/21/2025
+Entry:
+	"I seem, then, in just this little thing to be wiser than this man at any rate, that what I do not know I do not think I know either." -Henry Cary's translation of Plato's Apology 21d and statements on Socratese
+
