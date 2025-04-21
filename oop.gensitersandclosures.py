@@ -6,7 +6,7 @@ Notes:
     I kept looking at the assignment page, there was no clarification on if that is how I should turn it in or it 
     was another method. So, to be on the safe side, I made this program only return the combinations themselves,
     and not the list that I was creating before.
-
+github: https://github.com/jbrennecka/python/blob/main/oop.gensitersandclosures.py
 '''
 
 def two_letter_combinations(char):
