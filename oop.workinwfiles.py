@@ -1,6 +1,11 @@
 '''
 Name: Jesse Brennecka
 Object Oriented Programming: Working With Real Files
+github: https://github.com/jbrennecka/python/blob/main/oop.workinwfiles.py
+Notes:
+    A simple program, obviously, just to make sure we're able to read a file and manipulate the data within. I did
+    notice, however, that when creating and testing the program, that the 'sales_totals.txt' file had to be outside of
+    the folder that contained the .py file, or else it would continue to fail.
 '''
 
 def main():
